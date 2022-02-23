@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajdacho
 - 👀 I’m interested in GameDev, Software development and computer science
-- 🌱 I’m currently learning everything I can, from C#, C++ to quantum mechanics 
+- 🌱 I’m currently learning everything, ranging from C#, C++ to quantum mechanics 
 - 💞️ I’m looking to collaborate on developing a software
 - 📫 How to reach me ...
 
